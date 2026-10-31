@@ -2,8 +2,9 @@
 
 جزوه و راهنمای جامع و تعاملی درس امنیت کامپیوتر شامل مفاهیم پایه، مدل‌های کنترل دسترسی، نتایج بنیادین امنیتی و سیاست‌های محرمانگی.
 
-🌐 **مشاهده آنلاین جزوه (GitHub Pages):**  
-[https://block-p.github.io/security-notes/](https://block-p.github.io/security-notes/)
+🌐 **مشاهده آنلاین جزوه:**  
+👉 **[https://security.blockp.ir](https://security.blockp.ir)**  
+*(آدرس جایگزین گیت‌هاب: [https://block-p.github.io/security-notes/](https://block-p.github.io/security-notes/))*
 
 ---
 
